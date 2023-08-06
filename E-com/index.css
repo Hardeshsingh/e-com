@@ -48,7 +48,7 @@ background: #1492E6 0% 0% no-repeat padding-box;
 opacity: 1;
     font-size: 1.5rem;
     color: white;
- 
+    cursor: pointer;
     border-radius: 33px;
     box-shadow: 0px 16px 48px #00000029;
     border: none;

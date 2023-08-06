@@ -8,4 +8,8 @@ for (var i = 0; i < navbarItems.length; i++) {
     this.classList.add("active");
   });
 }
-let a = document.getElementById('price')
+let priceEL = document.getElementById("price-el")
+
+function checkPrice(){
+  let 
+}
