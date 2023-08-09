@@ -71,8 +71,10 @@ opacity: 1;
     justify-content: space-around; /* Adjust this as needed */
 }
 .container{
+    
     display: flex;
     align-items: center;
+    justify-content: space-between;
     padding: 15px 12px 10px 15px;
     border: 10px solid green;
     box-shadow: 0px 16px 48px #00000029;
